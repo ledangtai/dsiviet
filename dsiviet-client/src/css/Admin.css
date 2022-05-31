@@ -1,0 +1,29 @@
+.body-admin{
+    padding: 1% ;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px rgb(196, 188, 188);
+    width: 16%;
+    margin: 0 auto;
+    
+}
+.body-admin a{
+    text-decoration: none;
+    color: #707070;
+}
+.body-admin p{
+    
+    font-size: 100%;
+
+    font-family:  sans-serif;
+    padding: 4% 0;
+}
+.body-admin span{
+    margin-left: 5%;
+}
+.body-admin p:hover{
+    background: #008cff4d !important;
+}
+.body-admin .active{
+    color: #008cff;
+    background-color: #008cff4d !important;
+}

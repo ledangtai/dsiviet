@@ -1,0 +1,35 @@
+.nhanvienform{
+  width: 80%;
+  padding: 1%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  
+}
+.nhanvienform i{
+    color: red;
+}
+.nhanvienform button:hover{
+    background-color: wheat;
+}
+.nhanvienform button{
+    float: right;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding: 0.5% 2%;
+}
+label {
+    float: left;
+    font-weight: bolder;
+    margin-bottom: 1%;
+}
+input{
+    margin-bottom: 1%;
+
+}
+.form-control-file {
+    width: 100%;
+}
+.ck-toolbar{
+    width: 100% !important;
+}

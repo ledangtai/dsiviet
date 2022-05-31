@@ -1,0 +1,50 @@
+.header-admin{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10%;
+    background-color: white;
+    box-shadow: 1px 1px 2px 2px rgb(169, 187, 201);
+}
+.dsi-logo{
+    width: 8%;
+}
+.dsi-logo img {
+    width: 100%;
+}
+.employee-name {
+    color: #007bb4;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4%;
+}
+.admin {
+    width: 20%;
+    color: #007bb4;
+    
+}
+.admin .icon{
+    font-size: 150%;
+    width: 50%;
+}
+.search-admin{
+    margin-left: -15%;
+    width: 50% !important;
+}
+.search-admin .form-outline{
+    width: 85%;
+}
+.btn-admin{
+    background-color: #007bb4 !important;
+}
+.fa-comments{
+    position: relative;
+}
+.fa-comments span{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    padding: 10% 20%;
+    border-radius: 50%;
+    position: absolute;
+    top: -60%;
+    right: -35%;
+}
